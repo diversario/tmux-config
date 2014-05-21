@@ -84,7 +84,9 @@ tmux source-file ~/.tmux.conf
 
 (Cross platform, tested with python 2.7+)
 
-  install `psutil`
+Update March 19, 2014. Works with psutil 2.0 now.
+
+  install ``psutil``
 
 ```bash
 sudo pip install psutil
